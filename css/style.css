@@ -1,0 +1,32 @@
+.logo{
+	height: auto;
+	width: auto;
+	max-width: 100%;
+}
+.quiz-title{
+	font-size: 26px;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+}
+.title-column{
+	border-bottom: 5px solid;
+    padding: 0 !important;
+}
+.page-main-title{
+	font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+.page-sub-title{
+	font-family: 'Merriweather', serif;
+    font-weight: 300;
+}
+.page-paragraph{
+	font-family: 'Merriweather', serif;
+    font-weight: 300;
+    text-align: justify;
+}
+
+
+.padding-zero-column{
+    padding: 0 !important;
+}
